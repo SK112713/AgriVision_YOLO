@@ -63,4 +63,5 @@ Due to file size limits, the dataset is not included in this repository.
 * **Strongest Detections:** Banana Healthy, Groundnut Rust, Radish Flea Beetle (>95% accuracy).
 
 ## 👤 Author
-**Sarath Kumar** Master's in Data Science Student @ Rutgers University–Camden
+**Sarath Kumar** 
+
